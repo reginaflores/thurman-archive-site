@@ -8,10 +8,4 @@ AES-GCM–encrypted payload; the document text is never present in plaintext in
 the source. It decrypts in the browser only when the correct password is
 entered.
 
-## Deploy (GitHub Pages)
-1. Push this repo to GitHub.
-2. Repo → **Settings → Pages** → Source: **Deploy from a branch** → Branch:
-   `main` / root → **Save**.
-3. The site publishes at `https://<username>.github.io/<repo>/`.
 
-Prepared by Regina Flores Mir.
